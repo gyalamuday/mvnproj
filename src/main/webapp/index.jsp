@@ -10,6 +10,7 @@
         <h1>Hello from uday</h1>
         <h1>welcome jenkins</h1>
         <h1>test jenkins</h1>
+        <h1>deploy to nexus</h1>
 
 <table width="50%" bgcolor="green" align="center" border="2">
 
